@@ -38,14 +38,13 @@ import martin from "../assets/alumnos/MartinMoreno.png"
 import moran from "../assets/alumnos/miguelmoranv.jpg"
 import uriel from "../assets/alumnos/Urielgonzalez.PNG"
 import yahir from "../assets/alumnos/YahirHernandez.jpeg"
-import hombre from "hombre.png"
 import eduardo from "../assets/alumnos/Eduardo_Garcia.png"
 import jessica from "../assets/alumnos/jessicontreras.jpg"
-import jp from "../assets/alumnos/null.webp"
-import compean from "../assets/alumnos/null.webp"
-import erick from "../assets/alumnos/null.webp"
+import jp from "../assets/alumnos/ContrerasVasquez.jpeg"
+import compean from "../assets/alumnos/CompeanMacias.jpeg"
+import erick from "../assets/alumnos/ErickMeraz.jpeg"
 import gustavo from "../assets/alumnos/Screenshot_20240912_223634_Microsoft 365 (Office).jpg"
-import martha from "../assets/alumnos/null.webp"
+import martha from "../assets/alumnos/Roman.jpg"
 // reactstrap components
 import {
   Card,
@@ -79,7 +78,7 @@ function Dashboard() {
                     </Col>
                     <Col md="8" xs="7">
                       <div className="numbers">
-                        <p className="card-category">ALUMNO 8</p>
+                        <p className="card-category">ALUMNO 1</p>
                         <CardTitle tag="p">FERNANDA SANTILLAN</CardTitle>
                         <p />
                       </div>
@@ -112,7 +111,7 @@ function Dashboard() {
                     </Col>
                     <Col md="8" xs="7">
                       <div className="numbers">
-                        <p className="card-category">ALUMNO 1</p>
+                        <p className="card-category">ALUMNO 2</p>
                         <CardTitle tag="p">ADALID HERRERA</CardTitle>
                         <p />
                       </div>
@@ -146,7 +145,7 @@ function Dashboard() {
                     </Col>
                     <Col md="8" xs="7">
                       <div className="numbers">
-                        <p className="card-category">ALUMNO 2</p>
+                        <p className="card-category">ALUMNO 3</p>
                         <CardTitle tag="p">ALONDRA MARTINEZ</CardTitle>
                         <p />
                       </div>
@@ -179,7 +178,7 @@ function Dashboard() {
                     </Col>
                     <Col md="8" xs="7">
                       <div className="numbers">
-                        <p className="card-category">ALUMNO 3</p>
+                        <p className="card-category">ALUMNO 4</p>
                         <CardTitle tag="p">ARTURO GARCIA</CardTitle>
                         <p />
                       </div>
@@ -212,7 +211,7 @@ function Dashboard() {
                     </Col>
                     <Col md="8" xs="7">
                       <div className="numbers">
-                        <p className="card-category">ALUMNO 4</p>
+                        <p className="card-category">ALUMNO 5</p>
                         <CardTitle tag="p">LUIS CASTRO</CardTitle>
                         <p />
                       </div>
@@ -245,7 +244,7 @@ function Dashboard() {
                     </Col>
                     <Col md="8" xs="7">
                       <div className="numbers">
-                        <p className="card-category">ALUMNO 5</p>
+                        <p className="card-category">ALUMNO 6</p>
                         <CardTitle tag="p">DAVID DÁVILA</CardTitle>
                         <p />
                       </div>
@@ -278,7 +277,7 @@ function Dashboard() {
                     </Col>
                     <Col md="8" xs="7">
                       <div className="numbers">
-                        <p className="card-category">ALUMNO 6</p>
+                        <p className="card-category">ALUMNO 7</p>
                         <CardTitle tag="p">DIEGO ELIZALDE</CardTitle>
                         <p />
                       </div>
@@ -311,7 +310,7 @@ function Dashboard() {
                     </Col>
                     <Col md="8" xs="7">
                       <div className="numbers">
-                        <p className="card-category">ALUMNO 7</p>
+                        <p className="card-category">ALUMNO 8</p>
                         <CardTitle tag="p">EVELYN GALLEGOS</CardTitle>
                         <p />
                       </div>
